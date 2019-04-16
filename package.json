@@ -1,0 +1,23 @@
+{
+  "name": "p8-t3-sessions-and-modules-alu0101061672",
+  "version": "1.0.0",
+  "description": "En esta práctica se va a crear y publicar un módulo npm que provea un middleware express que provee autenticación para acceder a los ficheros en una determinada ruta.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1819/p8-t3-sessions-and-modules-alu0101061672.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1819/p8-t3-sessions-and-modules-alu0101061672/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1819/p8-t3-sessions-and-modules-alu0101061672#readme",
+  "dependencies": {
+    "@ull-esit-pl/auth": "^1.0.6",
+    "bcrypt-nodejs": "0.0.3"
+  }
+}
