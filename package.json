@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ULL-ESIT-DSI-1819/p8-t3-sessions-and-modules-alu0101061672#readme",
   "dependencies": {
     "@ull-esit-pl/auth": "^1.0.6",
-    "bcrypt-nodejs": "0.0.3"
+    "bcrypt-nodejs": "0.0.3",
+    "express-session": "^1.16.1"
   }
 }
